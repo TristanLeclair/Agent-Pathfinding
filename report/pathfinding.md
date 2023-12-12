@@ -78,6 +78,5 @@ together, if the node is far from the group, no one will get there
 quickly, which means on average, as a simulation goes on, the chances of
 a very long time to reach the node grows longer.
 
-![](../PythonScripts/plot_fps_data/data/fps.png){width="2.7910444006999127in"
-height="2.091770559930009in"}![](../PythonScripts/plot_fps_data/data/time.png){width="2.790926290463692in"
-height="2.091680883639545in"}
+![](../PythonScripts/plot_fps_data/data/fps.png)
+![](../PythonScripts/plot_fps_data/data/time.png)
